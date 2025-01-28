@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Bamfa Ceesay
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning product engineering
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on software products
-- 📫 How to reach me https://bceesay10.github.io/personal-portfolio/index.html
+- 📫 How to reach me https://bamfa-portfolio.vercel.app
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: ...
 
 <!---
 Bamfa30/Bamfa30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
